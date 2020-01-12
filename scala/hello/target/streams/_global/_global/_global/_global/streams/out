@@ -1,0 +1,47 @@
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [hello / Compile / compile] Found inputs: C:\Users\Chris\git\misc\scala\hello\*.{java,scala},C:\Users\Chris\git\misc\scala\hello\src\main\java\**\*.{java,scala},C:\Users\Chris\git\misc\scala\hello\src\main\resources\**\*,C:\Users\Chris\git\misc\scala\hello\src\main\scala\**\*.{java,scala},C:\Users\Chris\git\misc\scala\hello\src\main\scala-2.12\**\*.{java,scala}[0m
+[0m[[0m[0minfo[0m] [0m[0m1. Monitoring source files for hello/compile...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mhello / Compile / compile - Accepted event for C:\Users\Chris\git\misc\scala\hello\src\main\scala\example\Hello.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Creation(C:\Users\Chris\git\misc\scala\hello\src\main\scala\example\Hello.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mhello / Compile / compile - Accepted event for C:\Users\Chris\git\misc\scala\hello\src\main\scala\example\Hello.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\Chris\git\misc\scala\hello\src\main\scala\example\Hello.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\Chris\git\misc\scala\hello\src\main\scala\example\Hello.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\Chris\git\misc\scala\hello\src\main\scala\example\Hello.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: C:\Users\Chris\git\misc\scala\hello\src\main\scala\example\Hello.scala -> Trigger. Returning: (Creation(C:\Users\Chris\git\misc\scala\hello\src\main\scala\example\Hello.scala, 2020-Jan-12 01:01:10.491 BT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by C:\Users\Chris\git\misc\scala\hello\src\main\scala\example\Hello.scala. Running 'compile'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Creation(C:\Users\Chris\git\misc\scala\hello\src\main\scala\example\Hello.scala, 2020-Jan-12 01:01:10.491 BT).[0m
+[0m[[0m[0minfo[0m] [0m[0m2. Monitoring source files for hello/compile...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path C:\Users\Chris\git\misc\scala\hello\src\main\scala\example\Hello.scala. This event occurred 14 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mhello / Compile / compile - Accepted event for C:\Users\Chris\git\misc\scala\hello\src\main\scala\example\.#Hello.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Creation(C:\Users\Chris\git\misc\scala\hello\src\main\scala\example\.#Hello.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\Chris\git\misc\scala\hello\src\main\scala\example\.#Hello.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\Chris\git\misc\scala\hello\src\main\scala\example\.#Hello.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: C:\Users\Chris\git\misc\scala\hello\src\main\scala\example\.#Hello.scala -> Trigger. Returning: (Creation(C:\Users\Chris\git\misc\scala\hello\src\main\scala\example\.#Hello.scala, 2020-Jan-12 01:01:36.756 BT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by C:\Users\Chris\git\misc\scala\hello\src\main\scala\example\.#Hello.scala. Running 'compile'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Creation(C:\Users\Chris\git\misc\scala\hello\src\main\scala\example\.#Hello.scala, 2020-Jan-12 01:01:36.756 BT).[0m
+[0m[[0m[0minfo[0m] [0m[0m3. Monitoring source files for hello/compile...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mhello / Compile / compile - Accepted event for C:\Users\Chris\git\misc\scala\hello\src\main\scala\example\Hello.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\Chris\git\misc\scala\hello\src\main\scala\example\Hello.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\Chris\git\misc\scala\hello\src\main\scala\example\Hello.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\Chris\git\misc\scala\hello\src\main\scala\example\Hello.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified C:\Users\Chris\git\misc\scala\hello\src\main\scala\example\Hello.scala (previous stamp: Hash(da39a3ee5e6b4b0d3255bfef95601890afd80709), current stamp: Hash(91cf0ba9bc504b5dbf386722b0b3f736b355b8f1))[0m
+[0m[[0m[0mdebug[0m] [0m[0mhello / Compile / compile - Accepted event for C:\Users\Chris\git\misc\scala\hello\src\main\scala\example\.#Hello.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Deletion(C:\Users\Chris\git\misc\scala\hello\src\main\scala\example\.#Hello.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: C:\Users\Chris\git\misc\scala\hello\src\main\scala\example\Hello.scala -> Trigger. Returning: (Update(C:\Users\Chris\git\misc\scala\hello\src\main\scala\example\Hello.scala, 2020-Jan-12 01:01:37.418 BT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by C:\Users\Chris\git\misc\scala\hello\src\main\scala\example\Hello.scala. Running 'compile'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(C:\Users\Chris\git\misc\scala\hello\src\main\scala\example\Hello.scala, 2020-Jan-12 01:01:37.418 BT).[0m
+[0m[[0m[0minfo[0m] [0m[0m4. Monitoring source files for hello/compile...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mQuarantining deletion event for path C:\Users\Chris\git\misc\scala\hello\src\main\scala\example\.#Hello.scala for 500 milliseconds[0m
+[0m[[0m[0mdebug[0m] [0m[0mTriggering event for previously quarantined deleted file: C:\Users\Chris\git\misc\scala\hello\src\main\scala\example\.#Hello.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mQuarantining deletion event for path C:\Users\Chris\git\misc\scala\hello\src\main\scala\example\.#Hello.scala for 500 milliseconds[0m
+[0m[[0m[0mdebug[0m] [0m[0mTriggering event for previously quarantined deleted file: C:\Users\Chris\git\misc\scala\hello\src\main\scala\example\.#Hello.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: C:\Users\Chris\git\misc\scala\hello\src\main\scala\example\.#Hello.scala -> Trigger. Returning: (Deletion(C:\Users\Chris\git\misc\scala\hello\src\main\scala\example\.#Hello.scala, 2020-Jan-12 01:01:37.428 BT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by C:\Users\Chris\git\misc\scala\hello\src\main\scala\example\.#Hello.scala. Running 'compile'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Deletion(C:\Users\Chris\git\misc\scala\hello\src\main\scala\example\.#Hello.scala, 2020-Jan-12 01:01:37.428 BT).[0m
+[0m[[0m[0minfo[0m] [0m[0m5. Monitoring source files for hello/compile...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Run().[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Run().[0m

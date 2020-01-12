@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Chris\git\misc\scala\hello\src\main\scala\example\.#Hello.scala:1:14: Invalid literal number[0m
+[0m[[0m[31merror[0m] [0m[0mChris@LAPTOP-7DEV3TFL.1580:1577807954[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Chris\git\misc\scala\hello\src\main\scala\example\.#Hello.scala:1:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mChris@LAPTOP-7DEV3TFL.1580:1577807954[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
